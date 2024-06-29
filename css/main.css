@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(210, 210, 248);
+  }
+  h1{
+    color: rgb(110, 114, 142);
+    text-align: center;
+  }
+  #pricing-content{
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  #pricing-item{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  #btn{
+    color: rgb(43, 35, 192);
+    text-decoration: none;
+    background-attachment: rgb(16, 24, 138);
+  }
+  .list{
+    text-align: center;
+  }
+.list-item{
+    width: 350px;
+    height: 450px;
+    display: inline-block;   
+    margin-left: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+.remove-margin{
+    margin-left: 0;
+}
